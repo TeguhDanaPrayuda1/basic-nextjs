@@ -1,2 +1,2 @@
 # basic-nextjs
-latihan nextjs
+latihan nextjs dasar
